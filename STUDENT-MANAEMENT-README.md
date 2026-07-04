@@ -140,30 +140,8 @@ javac *.java
 
 ```bash
 java Main
-```
-
----
 
 
----
-
-## 📚 Java Concepts Implemented
-
-* Object-Oriented Programming (OOP)
-* Classes & Objects
-* Constructors
-* Encapsulation
-* Methods
-* ArrayList
-* File Handling
-* Exception Handling
-* Loops
-* Conditional Statements
-* User Input Validation
-* CRUD Operations
-* Menu-Driven Programming
-
----
 
 ## 🎯 Learning Outcomes
 
@@ -178,20 +156,6 @@ Through this project, I gained practical experience in:
 * Improving logical thinking and debugging skills
 * Creating a structured project suitable for real-world applications
 
----
-
-## 🚀 Future Enhancements
-
-* 🗄️ MySQL Database Integration
-* 🖥️ Java Swing / JavaFX GUI
-* 🔐 User Login Authentication
-* 📊 Student Result Management
-* 📅 Attendance Management System
-* 🔍 Search Students by Name
-* 📤 Export Student Data to PDF or Excel
-* 🌐 REST API Integration
-
----
 
 ## 👩‍💻 Developed By
 
@@ -203,13 +167,6 @@ Through this project, I gained practical experience in:
 
 🚀 Passionate about Software Development and Continuous Learning
 
----
-
-## 🏢 Internship
-
-**Organization:** SyntecxHub
-
-This project was developed as part of my internship to strengthen my Core Java skills through hands-on development of a real-world console application.
 
 ---
 
@@ -223,7 +180,9 @@ If you found this project useful, please consider giving it a **⭐ Star** on Gi
 
 I'm always open to learning, collaboration, and feedback.
 
-* 💼 **LinkedIn:** *(Add your LinkedIn profile URL here)*
+* 💼 **LinkedIn:** www.linkedin.com/in/parneet-kaur-241bb6406
+
+
 * 💻 **GitHub:** https://github.com/ParneetKaur-coder
 
 Thank you for visiting my project! 🚀
