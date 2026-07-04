@@ -111,14 +111,13 @@ Student_Management_System/
 Enter Your Choice:
 ```
 
----
+---[
 
 ## 🚀 Getting Started
 
 ### Clone the Repository
 
-```bash
-git clone https://github.com/ParneetKaur-coder/Student_Management_System.git
+](https://github.com/ParneetKaur-coder/Syntecxhub_Student_Management_System.git)
 ```
 
 ### Open the Project
